@@ -8,7 +8,7 @@ import Carousal from  './Carousal';
 export default class Header extends Component  {
   constructor(){
     super()
-    this.state = {title: 'JLUM Nextjs Project'};
+    this.state = {title: 'JLUM | Demo Project | Developed by Sudheer Neo'};
   }
 
   
@@ -31,6 +31,9 @@ render(){
       <link rel="apple-touch-icon-precomposed" href='images/cropped-logo-180x180.png' />
       <meta name="msapplication-TileImage" content='/images/cropped-logo-270x270.png' />
       <title>{this.state.title}</title>
+  	  <meta name="title" content="JLUM | Demo Project | Developed by Sudheer Neo"/>
+      <meta name="description" content="Followers who love the Lord Jesus Christ and express that love in lively praise and worship and in caring relationships . Join Jesus Loves You Ministries - JLUM. "/>
+
       <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/"/>
       <link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com/"/>
       <link rel="dns-prefetch" href="https://fonts.googleapis.com/"/>
