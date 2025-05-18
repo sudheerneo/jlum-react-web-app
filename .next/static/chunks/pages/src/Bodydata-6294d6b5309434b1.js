@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[849],{4852:(_,n,s)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/src/Bodydata",function(){return s(2074)}])}},_=>{var n=n=>_(_.s=n);_.O(0,[230,587,74,636,593,792],()=>n(4852)),_N_E=_.O()}]);
