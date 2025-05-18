@@ -25,7 +25,7 @@ export default function Footer(){
 			                </a>
 					</div>
 				
-					<div className="copyright pull-right" style={{ fontSize: ismobile ? 10 : null }} > <Link href="/"><a>2011 - {new Date().getFullYear()} © <b>Jesus Loves You Ministries</b></a></Link> | <span data-toggle="tooltip" title='Hello I am Sudheer, Fullstack Web App Developmement expert. Follow us to get your awesome projects like this - Best Regards'><a href="http://sudheerinfo.com/" > Made with <i className="_mi _before dashicons dashicons-heart"  style={{color: 'green'}}></i></a> </span></div>
+					<div className="copyright pull-right" style={{ fontSize: ismobile ? 10 : null }} > <Link href="/"><a>2011 - {new Date().getFullYear()} © <b>Jesus Loves You Ministries</b></a></Link> | <span data-toggle="tooltip" title='Hello I am Sudheer, Fullstack Web App Developmement expert. Follow us to get your awesome projects like this - Best Regards'><a href="https://sudheerneo.com/" > Made with <i className="_mi _before dashicons dashicons-heart"  style={{color: 'green'}}></i></a> </span></div>
 				</div>
 			</footer>
 <script type="text/javascript" src="/srcData_files/windowdom.js"></script>
