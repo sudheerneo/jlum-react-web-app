@@ -1,6 +1,6 @@
-import Link from "next/link"
-import styles from "./footer.module.css"
-import packageJSON from "../package.json"
+import Link from "next/link";
+import styles from "./footer.module.css";
+import packageJSON from "../package.json";
 
 export default function Footer() {
   return (
@@ -17,7 +17,7 @@ export default function Footer() {
           <a href="https://github.com/nextauthjs/next-auth-example">GitHub</a>
         </li>
         <li className={styles.navItem}>
-          <Link href="/policy">
+          <Link href="/policy" legacyBehavior>
             <a>Policy</a>
           </Link>
         </li>
@@ -26,5 +26,5 @@ export default function Footer() {
         </li>
       </ul>
     </footer>
-  )
+  );
 }
