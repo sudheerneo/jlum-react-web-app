@@ -33,6 +33,7 @@ render(){
       <title>{this.state.title}</title>
   	  <meta name="title" content="JLUM | Demo Project | Developed by Sudheer Neo"/>
       <meta name="description" content="Followers who love the Lord Jesus Christ and express that love in lively praise and worship and in caring relationships . Join Jesus Loves You Ministries - JLUM. "/>
+      <link rel="canonical" href="https://jlum.sudheerneo.com/" />
 
       <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/"/>
       <link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com/"/>
