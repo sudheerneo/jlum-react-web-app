@@ -7,7 +7,7 @@ import Carousal from "./Carousal";
 export default class Header extends Component {
   constructor() {
     super();
-    this.state = { title: "JLUM | Demo Project | Developed by Sudheer Neo" };
+    this.state = { title: "JLUM | Project Demo | Developed by Sudheer Neo" };
   }
 
   componentDidMount() {
